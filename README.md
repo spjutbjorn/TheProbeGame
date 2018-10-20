@@ -1,2 +1,4 @@
 # TheProbeGame
-Bug reports and game feature progress
+This game is in closed Alpha
+
+Follow https://twitter.com/Spjutbjorn for further information
